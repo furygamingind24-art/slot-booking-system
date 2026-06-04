@@ -1,4 +1,4 @@
-# slot-booking-system
+# Slot-booking-system
 Here is a 300-word project essay that you can use for your presentation, documentation, or portfolio summary. It highlights your technical approach and proudly showcases that this was your very first web development experience.
 
 ---
